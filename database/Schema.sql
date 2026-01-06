@@ -1,5 +1,3 @@
--- Airline Reservation System Database Schema
-
 CREATE DATABASE IF NOT EXISTS airline;
 USE airline;
 
